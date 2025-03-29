@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600965490097",
+    "project_id": "jetpack-chat-app-backend",
+    "storage_bucket": "jetpack-chat-app-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600965490097:android:8ed0ea461e77d4495e4990",
+        "android_client_info": {
+          "package_name": "com.example.bottomnavigationcomposeui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwKNwyhjubwHL21vIv_dnZ69UJZPpLIK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
