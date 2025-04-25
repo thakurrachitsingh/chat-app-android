@@ -41,6 +41,7 @@ android {
     }
     buildFeatures {
         compose = true
+        dataBinding = true
     }
     composeOptions {
         kotlinCompilerExtensionVersion = "1.5.1"
@@ -91,6 +92,7 @@ dependencies {
     implementation(libs.ktor.client.android)
     implementation(libs.okhttp)
     implementation(libs.gson)
+    implementation(libs.firebase.messaging)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

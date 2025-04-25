@@ -105,4 +105,8 @@ class LoginViewModel(): ViewModel() {
             Log.d("LoginViewModel", response.toString());
         }
     }
+
+    override fun onCleared() {
+        super.onCleared()
+    }
 }
